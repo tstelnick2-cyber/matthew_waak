@@ -1,0 +1,20 @@
+uploads = []
+outputs = []
+
+[[generated]]
+id = "YeLXHtt9gmF99PphKZjPE"
+uri = "file://artifacts/matthew-waak/public/images/abstract-architecture.png"
+type = "image"
+title = "abstract obsidian architectural geometry"
+
+[[generated]]
+id = "H-qJMFYhO0decZARYVyqY"
+uri = "file://artifacts/matthew-waak/public/images/moody-city.png"
+type = "image"
+title = "moody night city highrise"
+
+[[generated]]
+id = "iNjPGeBdPQ_c8Ov6Bb5-t"
+uri = "file://artifacts/matthew-waak/public/images/precision-texture.png"
+type = "image"
+title = "precision glass and steel"
